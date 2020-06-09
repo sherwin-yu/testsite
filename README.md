@@ -1,4 +1,4 @@
-# Vue Project on GitHub Pages
+# Vue Project
 
 ## Project setup
 
